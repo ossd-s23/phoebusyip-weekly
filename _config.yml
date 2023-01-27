@@ -95,3 +95,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+
+# to show blogs
+future: true
