@@ -59,7 +59,7 @@ url: "https://ossd-s23.github.io/phoebusyip-weekly"
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/phoebusyip"
+baseurl: "/phoebusyip-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
