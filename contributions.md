@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 15   | [Link to my contribution](https://github.com/Clipy/Clipy/issues/516)    | Bug Fix Suggestion    |   I suggested ways to fully delete app cache and saved preferences, before reinstalling to fix the opened issue.    |
-|     |     |     |      |
+|  Feb 26  |   [Link to my contribution](https://www.openstreetmap.org/changeset/133071575)  |  Added operating hours   |   I added operating hours for a Chase bank store.   |
 |     |     |     |      |
