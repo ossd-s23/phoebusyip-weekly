@@ -1,9 +1,24 @@
----
-layout: post
-title: "Week 5: Thoughts on this week's guest lecture"
----
+    ---
+    layout: post
+    title: "Week 6: Thoughts on project evaluations"
+    ---
 
-Mek's guest lecture was really interesting and I’m glad we got to listen to his expertise and knowledge in the open-source world. The most memorable part of the guest lecture is that digital library acts similarly to a physical library – borrowing one book off the digital library makes the book become “off-shelf”, in digital terms. This way, problems and consequences with copyright are handled. I think that this is a wonderful way to approach this issue, although it might be hard for dismissive skeptics to understand, or believe that. Perhaps one way to further promote digital libraries is to emphasize this part of digital libraries. Watching Mek’s enthusiastic take on the project as he explained how he had to fill big shoes when working on the project was inspiring, and I hope to have the same enthusiasm for projects that I involve myself with in the future. Mek also seemed extremely welcoming, and I could feel his enthusiasm reaching me and many other students. I still want to look at other open-source projects before deciding on one, so I’m going to continue looking at other options.
-<!--more-->
+    After doing 3 separate project evaluations, I have some thoughts overall about finding projects. I realize project evaluation priorities can be sorted in a pyramid hierarchy, similar to Maslow's hierarchy of needs, at least for me.
 
-As for my contributions, I’ve made contributions to an open source project called MonitorControl, which is a software I have been using myself for a while now. It’s a very helpful software that lets me control external monitors and their brightness, which for some reason is locked by default for some monitors on MacOS (you need to control brightness through the monitor’s hardware buttons). My contribution was a simple one that was a fix, inspired by another contributor’s comment, but I hope I helped troubleshoot that person’s issue. I have also made Wikipedia edits and OpenStreetMap contributions in people and locations that I am interested in. I agree that at the end of the day, passion and interest in what you are contributing to matters most. 
+    In the bottom of the hierarchy are factors that dictate whether I can meaningfully contribute to the project. For example, number of beginner-friendly issues for contributors, and tech stack issues. These are issues that must be satisfied in order for me to move onto considering other factors, before finally picking a project. These factors are in the bottom because they determine if I can actually contribute, for example I cannot realistically learn C++ and contribute meaningfullly to a project within this timeframe.
+
+    Next up in the hierarchy is relatability / interest. This is when I ask myself if I'm personally interested in the project. I found myself interested in FreeCodeCamp and GrassRoots Grocery, since they are both charitable organizations. This is next up in the hierarchy because passion must be fulfilled before I continue looking at other factors, because without passion or interest it doesn't matter if maintainers are helpful or communicative. I think passion is needed for me to want to contribute for the next couple months.
+
+    Lastly, there are social factors such as friendliness of contributors and maintainers. From the projects I evaluated, I realized nobody really says "thank you". Instead, "LGTM" or something similar is said, but I imagine the intent is similar. Another social factor is how active the disussions are for issues. For big projects, there could be lots of discussion for some issues, but not others, and I realize that it's okay. Even if there isn't that much disucssion for some issues, you can always create new issues (e.g. feature requests), or contribute to issues that have discussion. 
+
+    In terms of excitement, I'm most excited or eager to develop strong work ethics, since I will be basically working for people who don't exactly keep me accountable (as opposed to a college professor or TA). I think having to report to, or ask for feedback / help from someone unknown on the internet will be great for that.
+
+    Lastly, I think the challenges I will face the most is also regarding the work ethics issue. This is a complete honest take, but I am curious how it will be like to submit work for another person who is not my boss or teacher. How will I receive feedback or criticism from unknown strangers? This is a new environment for me, and my take on how to overcome this is to simply think about my grades(and secondly, my passion for the project). 
+
+
+
+
+
+
+
+

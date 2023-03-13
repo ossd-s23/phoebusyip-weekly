@@ -1,0 +1,11 @@
+    ---
+    layout: post
+    title: "Week 7: Thoughts on group project"
+    ---
+    
+    I enjoyed meeting and talking with my group members this week. It took a bit of time, but we eventually decided on a project - Jarvis. Jarvis is a command line interface that features a cool "personal assistant"-like system, with features such as voice descriptions, finding restaurants or simply reporting the weather. We thought it was a good fit because everyone knew Python. Even though we were grouped together for another project initially (OpenFoodFacts) from our Google form, we found that the number of open issues weren't enough for us to commit to the project fully. 
+
+    Personally, I am super excited to work on Jarvis, because I have made a command line interface before in JavaScript so I think and hope that I will have some transferrable skills that could aid my team for this project. I hope to get along with them and be able to seek help from them as well. I've also worked with Diana before for the browser extension activity. This gives me more comfort for this project - especially because working with new people can be awkward at first. Moreover, I’m glad my team has been very communicative and cooperative so far.
+
+    Some worries I have for this project include how we will split up the work and work as a team at the same time. Since we decided we will mostly focus on adding new features to Jarvis, part of me wonder if we will end up working individually on separate features most of the time, rather than working together. I think this scenario would be a double-edged sword, as members of a team should technically be working individually (e.g. on their own feature branch), but I would also like to gain more experience working with another member before I enter the workforce. I read about pair programming for another class, and while it sounds rather stressful and time-intensive, I think that I would learn a lot from such experience. So far, I think as a team we are open to both working styles, which is good because we can always adapt the way we work depending on the issues we face along the way.  
+
